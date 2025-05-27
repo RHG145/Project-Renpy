@@ -1,2 +1,2 @@
 # Project-Renpy
-repository ini adalah tempat saya akan membagikan hasil project game saya
+repository ini adalah tempat saya akan membagikan hasil dan progress project game saya
